@@ -4,6 +4,9 @@ faiss-cpu
 bs4
 groq
 fastapi
+wikipedia
+google-api-python-client
+langchain-google-community
 langserve
 langchain
 langchain_core
@@ -14,3 +17,5 @@ langchain-groq
 langchain-objectbox
 ipykernel
 InstructorEmbedding
+pathlib
+yaml
